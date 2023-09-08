@@ -1,7 +1,5 @@
 
-
-#  Programa de Exercícios Python Interativos
-
+# Programa de Exercícios Python Interativos
 
 Este repositório contém um programa em Python que oferece uma série de funcionalidades interativas. O programa apresenta um menu simples que permite ao usuário escolher entre quatro operações diferentes:
 
@@ -23,11 +21,12 @@ Para executar a aplicação, siga os passos abaixo:
    git clone URL_DO_REPOSITORIO
    ```
 
+   Substitua `URL_DO_REPOSITORIO` pelo URL real do seu repositório no GitHub ou em outra plataforma.
+
 2. **Navegue para o Diretório:** Entre no diretório do projeto:
 
    ```bash
    cd Atividade_Python
-
    ```
 
 3. **Execute a Aplicação:** Execute o programa Python principal com o seguinte comando (certifique-se de que o Python esteja instalado no seu sistema):
@@ -36,7 +35,7 @@ Para executar a aplicação, siga os passos abaixo:
    python tarefa.py
    ```
 
-   Substitua `nome_do_arquivo.py` pelo nome real do arquivo Python onde você inseriu o código da aplicação.
+   Substitua `tarefa.py` pelo nome real do arquivo Python onde você inseriu o código da aplicação.
 
 4. **Interaja com o Programa:** Após a execução do programa, siga as instruções do menu interativo para realizar as operações desejadas.
 
@@ -45,4 +44,4 @@ Certifique-se de que todas as dependências necessárias estejam instaladas e qu
 Este é um projeto simples, mas útil, para praticar conceitos de programação Python. Sinta-se à vontade para usá-lo como um ponto de partida para aprender Python ou como um exemplo de programação interativa.
 ```
 
-Lembre-se de substituir `URL_DO_REPOSITORIO` pelo URL real do seu repositório e `NomeDoRepositorio` pelo nome do diretório do seu projeto. Certifique-se de adicionar essas instruções logo após a descrição do projeto no seu README.
+Lembre-se de substituir `URL_DO_REPOSITORIO` pelo URL real do seu repositório no GitHub ou em outra plataforma e `tarefa.py` pelo nome real do arquivo Python onde você inseriu o código da aplicação. Certifique-se de que todas as instruções estejam formatadas corretamente para que os usuários possam seguir facilmente as etapas para executar a aplicação.
